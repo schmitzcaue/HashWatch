@@ -12,3 +12,16 @@
 body {
   font-family: "San Francisco";
 }
+
+ul {
+  /* descobrir a função de todos eles */
+  list-style: none;
+  display: flex;
+  justify_content: space-between;
+  max-width: 1000px;
+  margin: 0 auto;
+  align-itens: center;
+}
+svg {
+  display: block;
+}
